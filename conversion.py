@@ -1,1 +1,2 @@
-proxy for real file
+def hours2minutes(hours):
+    return hours*60
